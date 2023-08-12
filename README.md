@@ -6,13 +6,15 @@ This is my project for the Year 3 Advanced Programming module. I got a mark of 8
 
 Write a C/C++ program with geological or geophysical usefulness. You can do any program that you want, but it MUST include the following capabilities and techniques:
 
-• Obtain input from the user.
-• Load data from a file.
-• Save data to a file.
-• Carry out calculations.
-• Make use of classes and objects.
-• Dynamically allocate memory – You can also use stl containers, but I also want to see that you are able to do the memory allocation yourself using new and delete as well.
-• Make use of functions to both carry out specific tasks, as well as to break up the code into sensible sections.
+<ul>
+  <li>Obtain input from the user.</li>
+  <li>Load data from a file.</li>
+  <li>Save data to a file.</li>
+  <li>Carry out calculations.</li>
+  <li>Make use of classes and objects.</li>
+  <li>Dynamically allocate memory – You can also use stl containers, but I also want to see that you are able to do the memory allocation yourself using new and delete as well.</li>
+  <li>Make use of functions to both carry out specific tasks, as well as to break up the code into sensible sections.</li>
+</ul>
 
 Credit will be given for the difficulty of the program but remember to choose something that you think you can accomplish as lots of marks will be lost for programs that don’t work.
 
